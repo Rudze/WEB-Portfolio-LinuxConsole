@@ -1,11 +1,5 @@
 # <h2 align="center">💻 WEB Portfolio LinuxConsole</h2>
 
-<h4 align="center">
-  A futuristic Linux terminal inspired portfolio website
-  <br/>
-  <a href="https://github.com/Rudze/WEB-Portfolio-LinuxConsole" target="_blank">View the project</a>
-</h4>
-
 ---
 
 <div align="center">
